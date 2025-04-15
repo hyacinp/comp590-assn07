@@ -1,5 +1,7 @@
 package main
 
+// Team: Kibby Hyacinth Pangilinan
+
 import (
 	"fmt"
 	"math/rand"
